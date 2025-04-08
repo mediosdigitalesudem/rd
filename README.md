@@ -22,6 +22,7 @@ Agent Display with searching all fields and clickable IDs to launch directly.
 Installer Config Page
 ![image](https://github.com/infiniteremote/installer/assets/156513740/3729a5f8-75e2-476c-8789-7658220bbc95)
 
+> wget https://raw.githubusercontent.com/mediosdigitalesudem/rd/main/install.sh
 
 ### Requirements
 - A clean installation of Linux we suggest Debian 12 or Ubuntu 22.04.
