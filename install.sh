@@ -229,7 +229,7 @@ fi
 
 cd /opt
 
-sudo git clone https://github.com/infiniteremote/rustdesk-api-server.git
+git clone -b feature/2fa-migration-fix https://github.com/mediosdigitalesudem/rustdesk-api-server.git
 
 cd rustdesk-api-server
 
