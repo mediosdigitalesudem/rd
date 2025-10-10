@@ -120,7 +120,7 @@ sudo chown "${usern}" -R /var/lib/rustdesk-server
 cd /var/lib/rustdesk-server/ || exit 1
 
 
-# Download latest version of RustDesk
+# Download latest version of RustDesk-server
 RDLATEST=$(curl https://api.github.com/repos/rustdesk/rustdesk-server/releases/latest -s | grep "tag_name"| awk '{print substr($2, 2, length($2)-3) }')
 
 echo "Installing RustDesk Server"
