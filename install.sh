@@ -229,7 +229,9 @@ fi
 
 cd /opt
 
-git clone -b feature/2fa-migration-fix https://github.com/mediosdigitalesudem/rustdesk-api-server.git
+#dehsbailitar otp
+# git clone -b feature/2fa-migration-fix https://github.com/mediosdigitalesudem/rustdesk-api-server.git
+git clone https://github.com/mediosdigitalesudem/rustdesk-api-server.git
 
 cd rustdesk-api-server
 
