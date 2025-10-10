@@ -23,7 +23,7 @@ Installer Config Page
 ![image](https://github.com/infiniteremote/installer/assets/156513740/3729a5f8-75e2-476c-8789-7658220bbc95)
 
 ```
-wget https://raw.githubusercontent.com/mediosdigitalesudem/rd/main/install.sh
+wget https://raw.githubusercontent.com/mediosdigitalesudem/install/main/install.sh
 ```
 ```
 chmod +x install.sh
