@@ -269,6 +269,7 @@ python manage.py makemigrations
 python manage.py migrate
 echo "Please Set your password and username for the Web UI"
 python manage.py securecreatesuperuser
+python manage.py collectstatic --noinput
 deactivate
 
 apiconfig="$(
